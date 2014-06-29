@@ -4,7 +4,7 @@
   "description": "Simple example of a node dev server for purely client-side development",
   "license": "ISC",
   "scripts": {
-    "start": "static-server public"
+    "start": "static-server public 9080"
   },
   "dependencies": {
     "static-server": "^1.0.0"
