@@ -2,5 +2,11 @@
   "name": "example-simple-dev-server",
   "version": "0.0.0",
   "description": "Simple example of a node dev server for purely client-side development",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "start": "static-server public"
+  },
+  "dependencies": {
+    "static-server": "^1.0.0"
+  }
 }
