@@ -1,0 +1,6 @@
+{
+  "name": "example-simple-dev-server",
+  "version": "0.0.0",
+  "description": "Simple example of a node dev server for purely client-side development",
+  "license": "ISC"
+}
